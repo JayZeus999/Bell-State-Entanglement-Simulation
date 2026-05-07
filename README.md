@@ -10,9 +10,15 @@ Measuring one qubit instantly determines the state of the other.
 
 
 Create uncertainty in one qubit.
+
 ↓
+
 Link another qubit to it.
+
 ↓
+
 Both now share one quantum state.
+
 ↓
+
 Measurement of one determines both.
